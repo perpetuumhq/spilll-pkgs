@@ -21,10 +21,7 @@ dev_dependencies:
 
 flutter:
 
-  assets:
-   - assets/icons/
-
   fonts:
-   - family:  SpilllIcons
+   - family: SpilllIcons
      fonts:
-      - asset: assets/icons/SpilllIcons.ttf
+      - asset: lib/fonts/SpilllIcons.ttf
