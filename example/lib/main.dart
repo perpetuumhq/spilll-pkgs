@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Icon(SpilllIcons.arrows_cw,  color: Theme.of(context).colorScheme.primary),
+            Icon(SpilllIcons.threads_rounded,  color: Theme.of(context).colorScheme.primary),
 
           ],
         ),
