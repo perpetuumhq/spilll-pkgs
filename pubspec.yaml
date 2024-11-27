@@ -20,6 +20,9 @@ dev_dependencies:
 
 
 flutter:
+  
+  assets:
+    - assets/
 
   fonts:
    - family: SpilllIcons
