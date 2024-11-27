@@ -24,6 +24,7 @@ flutter:
   assets:
     - assets/
     - lib/assets/
+    - packages/spilll_icons/lib/assets/
 
   fonts:
    - family: SpilllIcons
