@@ -6,7 +6,7 @@ class SpilllIcons {
   SpilllIcons._();
 
   static const _kFontFam = 'SpilllIcons';
-  static const String? _kFontPkg = null;
+  static const String? _kFontPkg = "spilll_icons";
 
   static const IconData add_image = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bell_filled = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
