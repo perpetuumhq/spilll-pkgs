@@ -109,5 +109,15 @@ class SpilllIcons {
   static const String xRounded =
       'packages/spilll_icons/lib/assets/x-rounded.svg';
   static const String squareGridMagnifyingGlass =
-      'packages/spilll_icons/lib/assets/square-grid-magnifying-glass.svg';
+      'packages/spilll_icons/lib/assets/square-grid-maginfying-glass.svg';
+  static const String paperPlane =
+      'packages/spilll_icons/lib/assets/paper-plane.svg';
+  static const String checkCircle =
+      "packages/spilll_icons/lib/assets/check-circle.svg";
+  static const String shuffle =
+      "packages/spilll_icons/lib/assets/shuffle-outline.svg";
+  static const String galleryOutline =
+      "packages/spilll_icons/lib/assets/gallery-outline.svg";
+  static const String cameraOutline =
+      "packages/spilll_icons/lib/assets/camera-outline.svg";
 }
