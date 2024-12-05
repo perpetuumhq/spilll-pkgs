@@ -58,10 +58,10 @@ class SpilllIcons {
   static const String settingsGear = 'packages/spilll_icons/lib/assets/settings-gear.svg';
   static const String share = 'packages/spilll_icons/lib/assets/share.svg';
   static const String shareArrowDown = 'packages/spilll_icons/lib/assets/share-arrow-down.svg';
+  static const String shareOutlined = 'packages/spilll_icons/lib/assets/share_outlined.svg';
   static const String shieldCheck = 'packages/spilll_icons/lib/assets/shield-check.svg';
   static const String snapchatRounded = 'packages/spilll_icons/lib/assets/snapchat-rounded.svg';
   static const String sparkleColoredCircular = 'packages/spilll_icons/lib/assets/sparkle-colored-circular.svg';
-  static const String spilllIcons = 'packages/spilll_icons/lib/assets/SpilllIcons.ttf';
   static const String threadsRounded = 'packages/spilll_icons/lib/assets/threads-rounded.svg';
   static const String threeDotMenu = 'packages/spilll_icons/lib/assets/three-dot-menu.svg';
   static const String trend = 'packages/spilll_icons/lib/assets/trend.svg';
