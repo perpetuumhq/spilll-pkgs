@@ -120,4 +120,6 @@ class SpilllIcons {
       "packages/spilll_icons/lib/assets/gallery-outline.svg";
   static const String cameraOutline =
       "packages/spilll_icons/lib/assets/camera-outline.svg";
+  static const String share_outlined =
+      "packages/spilll_icons/lib/assets/share_outlined.svg";
 }
